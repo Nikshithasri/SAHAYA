@@ -134,6 +134,19 @@ The goal is not simply to provide an answer, but to help entrepreneurs understan
 **PartyRock App:**
 https://partyrock.aws/u/Nikshitha/QY1qpkMZ2/SAHAYA-Rural-Venture-Testing-Engine
 
+##📸 Application Screenshots
+<img width="1476" height="702" alt="image" src="https://github.com/user-attachments/assets/fe3b6d14-8859-4adb-9a2e-cc97eed5bec2" />
+<img width="1635" height="680" alt="image" src="https://github.com/user-attachments/assets/065a2c83-5b1d-49c0-96cc-46fdf15d9485" />
+<img width="1435" height="683" alt="image" src="https://github.com/user-attachments/assets/a8a8bdf1-1a2e-46ff-a0f3-15f3799fa246" />
+<img width="1532" height="690" alt="image" src="https://github.com/user-attachments/assets/f4488f9d-5d10-420b-a71f-3f1406a82b1b" />
+<img width="1471" height="682" alt="image" src="https://github.com/user-attachments/assets/5caa4079-5137-48e9-a159-a3eb03ee404f" />
+<img width="1477" height="697" alt="image" src="https://github.com/user-attachments/assets/07413f2c-1f85-4084-8719-83f77ff65c1e" />
+<img width="1744" height="844" alt="image" src="https://github.com/user-attachments/assets/6ce94842-03c9-4713-841d-25370310ba65" />
+<img width="1805" height="870" alt="image" src="https://github.com/user-attachments/assets/13af90c3-19af-4d02-bd85-b79de30caffd" />
+
+
+
+
 ## 📌 Project Highlights
 
 * AI-powered rural entrepreneurship support
